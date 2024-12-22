@@ -6,3 +6,4 @@ Características principales:
 3. Gestión y almacenamiento de datos: Utiliza una tarjeta SD para el almacenamiento local, junto con la integración de ThingSpeak para subir los datos a la nube para análisis y visualización.
 4. Automatización y eficiencia energética: Implementa el modo deep sleep en el microcontrolador ESP32, optimizando el consumo energético.
 5. Compatibilidad con plataformas IoT: Gracias a la integración con ThingSpeak y la programación en C++, se habilita el análisis remoto y la automatización del sistema.
+![WhatsApp Image 2024-09-04 at 9 57 10 PM (2)](https://github.com/user-attachments/assets/406d90e1-c03f-4515-8ba4-ff6a0205199c)
